@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Vote for Uswa as Head Girl 2025. Join The Movement for communication, kindness, and responsible involvement.">
+    <title>Vote Uswa for Head Girl 2025 - The Movement</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0; 
+            padding: 0; 
+            background-color: #f4f4f4; 
+            color: #333; 
+            line-height: 1.6; 
+        }
+        header { 
+            background-color: #ff6b6b; 
+            color: white; 
+            text-align: center; 
+            padding: 50px 20px; 
+        }
+        nav { 
+            background-color: #333; 
+            padding: 10px; 
+            text-align: center; 
+        }
+        nav a { 
+            color: white; 
+            margin: 0 15px; 
+            text-decoration: none; 
+            font-weight: bold; 
+        }
+        nav a:hover { 
+            color: #ff6b6b; 
+        }
+        section { 
+            padding: 40px 20px; 
+            max-width: 800px; 
+            margin: auto; 
+        }
+        .cta { 
+            background-color: #dc3545; 
+            color: white; 
+            padding: 20px; 
+            text-align: center; 
+        }
+        .cta button { 
+            background-color: white; 
+            color: #dc3545; 
+            border: none; 
+            padding: 10px 20px; 
+            font-size: 18px; 
+            cursor: pointer; 
+            border-radius: 5px; 
+        }
+        .cta button:hover { 
+            background-color: #f4f4f4; 
+        }
+        footer { 
+            background-color: #333; 
+            color: white; 
+            text-align: center; 
+            padding: 20px; 
+        }
+        .testimonial { 
+            border-left: 5px solid #ff6b6b; 
+            padding-left: 20px; 
+            margin: 20px 0; 
+            font-style: italic; 
+        }
+        .highlight { 
+            font-weight: bold; 
+            color: #ff6b6b; 
+        }
+        @media (max-width: 600px) {
+            header { padding: 30px 10px; }
+            nav a { display: block; margin: 10px 0; }
+            section { padding: 20px 10px; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Vote Uswa for Head Girl 2025</h1>
+        <p>Join The Movement: Communication, Kindness, and Responsible Involvement</p>
+    </header>
+    
+    <nav>
+        <a href="#about">Why You Should Vote for Me</a>
+        <a href="#why">Why Vote for Uswa?</a>
+        <a href="#movement">The Movement</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#poll">Take the Poll</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    
+    <section id="about">
+        <h2>Why You Should Vote for Me</h2>
+        <p>From my years in school, I've learned that leadership isn't just about having a title; it's about action. My experiences have shaped me into a candidate who is ready to listen, collaborate, and make a real difference. I've been involved in many school activities, and each one has taught me valuable lessons about teamwork, problem-solving, and the importance of perseverance. I'm confident in my ability to take on the role of Head Girl.</p>
+        <p>I've learned that a good leader is someone who can connect with others, understand their needs, and work together to find solutions. Through my involvement in various school projects, I've had the chance to work with students from all backgrounds. Through my role as a class monitor, which I’ve held numerous times, I had the opportunity to address the concerns of my classmates. This has given me the ability to consider different perspectives and to make fair decisions. I'm ready to use my experience to advocate for the student body.</p>
+        <p>I've had the privilege of being at this school longer than anyone else running, and I believe that experience is what sets me apart. I'm confident that my experiences have equipped me with the skills and passion needed to serve as your Head Girl. I'm excited about the opportunity to work with each of you to create a more inclusive, supportive, and thriving school environment. I look forward to the chance to represent you and make a real difference.</p>
+    </section>
+    
+    <section id="why">
+        <h2>Why Vote for Uswa?</h2>
+        <p>I've been thinking a lot lately about what makes a school truly great, and honestly, it boils down to two things: <span class="highlight">opportunities</span> and <span class="highlight">voice</span>.</p>
+        <p><strong>Opportunities:</strong> I'm talking about a massive expansion of clubs and activities. Let's be real, school is so much more than just classes! It's about finding your people, discovering your passions, and having fun. I'm envisioning everything from coding clubs to film societies, and everything in between. But it's not just about what's already there, it's about what <em>YOU</em> want. Got an idea for a club? I'm your person.</p>
+        <p><strong>Voice:</strong> I'm a firm believer that students should be heard. That's why I'm committed to setting up a solid feedback system. Think surveys, suggestion boxes, and maybe even some open forums where we can all share ideas and make sure everyone's voice is heard. This isn't just about making the school better; it's about building a community where we all feel valued and empowered.</p>
+    </section>
+    
+    <section id="movement">
+        <h2>The Movement</h2>
+        <p>The Movement is the guiding idea of this campaign, built on communication, kindness, and responsible student involvement. It introduces simple and respectful ways for students to share their thoughts, including short surveys and an optional anonymous method for those who prefer to express a concern privately. The goal is to ensure every voice can be heard in a safe, appropriate, and constructive manner. The Movement encourages cooperation, understanding, and a supportive school environment where we work together for positive growth.</p>
+        <p class="highlight">Join us. Be part of something bigger. This is your school. This is your voice. This is the move.</p>
+    </section>
+    
+    <section id="testimonials">
+        <h2>Testimonials</h2>
+        <div class="testimonial">
+            <p>"Aapi Uswa is the best, best, best, best pupil in school."</p>
+            <cite>- Tawassal</cite>
+        </div>
+        <div class="testimonial">
+            <p>"I will definitely vote for her because she is the oldest student and she knows everyone well."</p>
+            <cite>- Anaya</cite>
+        </div>
+        <div class="testimonial">
+            <p>"Uswa, you are responsible and you helped me with the prints, so I might think about voting for you."</p>
+            <cite>- Mam. Fiza</cite>
+        </div>
+    </section>
+    
+    <section id="poll" style="background-color: #fff; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <h2 style="text-align: center; color: #ff6b6b;">What Do You Want at School? 🌟</h2>
+        <p style="text-align: center; font-size: 16px;">Help us make school awesome! Answer these quick questions. Your ideas matter! (No names needed – stay anonymous!)</p>
+        
+        <form id="school-poll" style="max-width: 600px; margin: auto; padding: 20px;">
+            <!-- Question 1 -->
+            <div style="margin-bottom: 20px;">
+                <label style="font-weight: bold; color: #333;">1. What's your favorite activity or club idea? 🎨</label><br>
+                <input type="radio" name="activity" value="Coding Club"> Coding Club<br>
+                <input type="radio" name="activity" value="Art and Drawing"> Art and Drawing<br>
+                <input type="radio" name="activity" value="Sports Team"> Sports Team<br>
+                <input type="radio" name="activity" value="Debate"> Debate<br>
+                <input type="radio" name="activity" value="Other"> Other (tell us below!)<br>
+            </div>
+            
+            <!-- Question 2 -->
+            <div style="margin-bottom: 20px;">
+                <label style="font-weight: bold; color: #333;">2. What's the biggest thing we should improve at school? 🏫</label><br>
+                <input type="radio" name="improvement" value="More Fun Breaks"> More Fun Breaks<br>
+                <input type="radio" name="improvement" value="Better Food"> Better Food<br>
+                <input type="radio" name="improvement" value="New Clubs"> New Clubs<br>
+                <input type="radio" name="improvement" value="Cleaner Playgrounds"> Cleaner Playgrounds<br>
+                <input type="radio" name="improvement" value="Other"> Other (tell us below!)<br>
+            </div>
+            
+            <!-- New Question: MUN -->
+            <div style="margin-bottom: 20px;">
+                <label style="font-weight: bold; color: #333;">3. Would you want an MUN? 🗣️</label><br>
+                <input type="radio" name="mun" value="Yes"> Yes<br>
+                <input type="radio" name="mun" value="No"> No<br>
+                <input type="radio" name="mun" value="Not Sure"> Not Sure<br>
+            </div>
+            
+            <!-- Question 4 -->
+            <div style="margin-bottom: 20px;">
+                <label style="font-weight: bold; color: #333;">4. Any other ideas or things you want? Tell us! 💬</label><br>
+                <textarea name="feedback" rows="4" cols="50" placeholder="Write your ideas here... (optional)" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;"></textarea>
+            </div>
+            
+            <!-- Submit Button -->
+            <div style="text-align: center;">
+                <button type="submit" style="background-color: #ff6b6b; color: white; border: none; padding: 10px 20px; font-size: 18px; cursor: pointer; border-radius: 5px;">Submit My Ideas! 🚀</button>
+            </div>
+        </form>
+        
+        <script>
+            document.getElementById('school-poll').addEventListener('submit', function(e) {
+                e.preventDefault();
+                alert('Thanks for sharing! Your ideas will help make school better. 😊');
+                // In a real setup, send data to a server or Google Form here.
+            });
+        </script>
+    </section>
+    
+    <section class="cta" id="contact">
+        <h2>Ready to Join The Movement?</h2>
+        <p>Cast your vote for Uswa on Monday. Let's create a school where every voice matters!</p>
+        <button onclick="alert('To vote for Uswa, contact Mam Afsheen')">Vote Uswa</button>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Uswa's Campaign. All rights reserved.</p>
+        <p>Contact: themvmnt2025 | Follow The Movement on social media!</p>
+    </footer>
+
+    <script>
+        // Smooth scrolling for nav links
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
